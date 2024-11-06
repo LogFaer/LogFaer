@@ -20,6 +20,5 @@
 </p>
 
 <h3 align="left">Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logfaer&show_icons=true&locale=en&theme=dark" alt="logfaer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logfaer&theme=dark" alt="logfaer" /></p>
