@@ -19,6 +19,7 @@
 <a href="https://linkedin.com/in/ruslan asanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruslan asanov" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logfaer&show_icons=true&locale=en&theme=dark" alt="logfaer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logfaer&theme=dark" alt="logfaer" /></p>
