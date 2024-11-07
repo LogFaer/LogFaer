@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LogFaer</h1>
 <h3 align="center">Unity Game Developer</h3>
 
-<p align="center">![cat-wizard](https://github.com/user-attachments/assets/2eb1708d-78c8-4d8a-bbf6-365b6b07e92c)</p>
+<p align="center"><img src="https://github.com/user-attachments/assets/2eb1708d-78c8-4d8a-bbf6-365b6b07e92c" alt="logfaer_gamedev" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logfaer&label=Profile%20views&color=ffae00&style=flat" alt="logfaer" /> </p>
 
