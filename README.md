@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm LogFaer</h1>
 <h3 align="center">Unity Game Developer</h3>
-![IMG_2353](https://github.com/user-attachments/assets/e79e344f-c908-490b-ad8b-c8ffdafe9a63)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logfaer&label=Profile%20views&color=ffae00&style=flat" alt="logfaer" /> </p>
 
