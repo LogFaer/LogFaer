@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <sub>✦ &nbsp; <i>"Magic is just math no one has bothered to explain yet."</i> &nbsp; ✦</sub>
+  <sub>✦ &nbsp; <i>"Every frame is a controlled illusion."</i> &nbsp; ✦</sub>
 </div>
 
 <br/>
@@ -48,14 +48,28 @@ Tech Art         ██████████████████░░  P
 
 ## ⬡ &nbsp; Stack
 
+**Game Dev**
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/HLSL-5C2D91?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shader_Graph-1a1a1a?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VFX_Graph-000000?style=flat-square&logo=unity&logoColor=white"/>
+</p>
+
+**3D & VFX**
+<p>
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+</p>
+
+**Platform**
+<p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-111111?style=flat-square&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VFX_Graph-000000?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PC-0078D4?style=flat-square&logo=windows&logoColor=white"/>
 </p>
 
 ---
@@ -89,4 +103,10 @@ Tech Art         ██████████████████░░  P
 
 <div align="center">
   <sub>⋆｡‧˚ &nbsp; <i>Still learning. Still wandering. Still writing shaders at 3 AM.</i> &nbsp; ˚‧｡⋆</sub>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/d49cc872-4160-4742-b883-736440d44a98" height="280" alt=""/><img src="https://github.com/user-attachments/assets/1dad4216-e64b-4539-a932-f478adb06aac" height="280" alt=""/><img src="https://github.com/user-attachments/assets/a5721396-84b0-441f-b866-2fe6e9b5755c" height="280" alt=""/><img src="https://github.com/user-attachments/assets/6f919ca4-63aa-45e1-a2cc-5d850bed013b" height="280" alt=""/><img src="https://github.com/user-attachments/assets/1abb0a31-e19e-4497-9c0f-0970b752b0f9" height="280" alt=""/>
 </div>
