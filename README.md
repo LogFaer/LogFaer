@@ -1,11 +1,6 @@
 <div align="center">
 
-<!-- 
-  ☆ Replace the line below with your Frieren GIF:
-  Upload a GIF to any GitHub issue (drag & drop), copy the URL, paste it here.
-  Recommended: search "frieren gif" on tenor.com, download, then upload via GitHub issue.
--->
-<img src="https://media.tenor.com/IzUmQhVLCNQAAAAd/frieren-anime.gif" width="480" alt="frieren"/>
+<img src="https://github.com/user-attachments/assets/3b061d7a-345a-431e-b6e4-687ef09bc8dd" height="420" alt="frieren-left"/><img src="https://github.com/user-attachments/assets/47a5ee3e-f7a5-4ffa-944e-ec180779cca7" height="420" alt="frieren-right"/>
 
 <br/>
 
@@ -20,9 +15,7 @@
 <br/>
 
 <div align="center">
-  <sub>✦ &nbsp; <i>"All that we call graphics is just smoke and mirrors."</i> &nbsp; ✦</sub>
-  <br/>
-  <sub><i>— my Tech Art Lead</i></sub>
+  <sub>✦ &nbsp; <i>"Magic is just math no one has bothered to explain yet."</i> &nbsp; ✦</sub>
 </div>
 
 <br/>
@@ -62,6 +55,7 @@ Tech Art         ██████████████████░░  P
   <img src="https://img.shields.io/badge/Shader_Graph-1a1a1a?style=flat-square&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-111111?style=flat-square&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VFX_Graph-000000?style=flat-square&logo=unity&logoColor=white"/>
 </p>
 
 ---
