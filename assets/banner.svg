@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 200" width="860" height="200" role="img" aria-label="LogFaer — Technical Artist, Unity Developer, Shader Alchemist">
+  <defs>
+    <radialGradient id="g1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b2570" stop-opacity="0.80"/>
+      <stop offset="100%" stop-color="#3b2570" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0d4d5c" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#0d4d5c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#5c2352" stop-opacity="0.65"/>
+      <stop offset="100%" stop-color="#5c2352" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c8c8c8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#c8c8c8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#c8c8c8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="47%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="53%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="200" fill="#0d1117"/>
+
+  <g>
+    <ellipse cx="210" cy="110" rx="300" ry="240" fill="url(#g1)">
+      <animate attributeName="cx" values="210;300;170;210" dur="19s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="110;80;140;110" dur="23s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="640" cy="100" rx="280" ry="230" fill="url(#g2)">
+      <animate attributeName="cx" values="640;560;690;640" dur="21s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="100;135;70;100" dur="17s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="440" cy="150" rx="260" ry="200" fill="url(#g3)">
+      <animate attributeName="cx" values="440;480;400;440" dur="25s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="150;120;170;150" dur="20s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <rect width="860" height="200" fill="#0d1117" opacity="0.30"/>
+
+  <g fill="none" stroke="#c8c8c8" stroke-opacity="0.22" stroke-width="1.4">
+    <polygon points="778,64 800,77 800,103 778,116 756,103 756,77">
+      <animateTransform attributeName="transform" type="rotate" from="0 778 90" to="360 778 90" dur="44s" repeatCount="indefinite"/>
+    </polygon>
+    <polygon points="86,64 108,77 108,103 86,116 64,103 64,77">
+      <animateTransform attributeName="transform" type="rotate" from="360 86 90" to="0 86 90" dur="52s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+
+  <text x="430" y="102" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#ededed" letter-spacing="10">LogFaer</text>
+
+  <rect y="120" height="2" fill="url(#rule)">
+    <animate attributeName="x" values="330;250;330" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="200;360;200" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="430" y="150" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#767676" letter-spacing="6">TECHNICAL ARTIST &#8226; UNITY DEVELOPER &#8226; SHADER ALCHEMIST</text>
+
+  <rect width="860" height="200" fill="url(#sheen)">
+    <animate attributeName="x" values="-860;860" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</svg>

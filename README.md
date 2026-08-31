@@ -4,11 +4,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=26&duration=3500&pause=1200&color=C8C8C8&center=true&vCenter=true&width=620&lines=LogFaer;Technical+Artist+%26+Unity+Developer;Shader+Alchemist" alt="header"/>
+<img src="https://raw.githubusercontent.com/LogFaer/LogFaer/main/assets/banner.svg" width="820" alt="LogFaer — Technical Artist & Unity Developer"/>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=logfaer&label=wanderers+passed+by&color=444444&style=flat" alt="profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/LogFaer?label=followers&style=flat&color=444444&labelColor=0D1117" alt="followers"/>
 
 </div>
 
@@ -32,16 +34,54 @@ that are both **fast** and **beautiful**.
 5 years Unity  ·  2 years Tech Art  ·  HLSL  ·  ShaderGraph  ·  Mobile GPU Optimization
 ```
 
+Currently building **Onri Studio** — rendering tools for Unity URP that stay inside a mobile frame budget.
+
+---
+
+## ⬡ &nbsp; Selected Work
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### ▸ &nbsp;Onri Studio · Planar Reflections
+
+Mobile-first planar reflections for Unity URP. One hidden capture
+camera renders into a texture array; receivers read it from shader
+globals and resolve which plane applies per pixel — so a material
+turns reflective with **no component, no registration, and no break
+in the SRP Batcher**. Off-plane pixels fall back to the reflection
+probe, so one material works at every quality tier.
+
+<sub>`Unity 6` &nbsp; `URP 17` &nbsp; `HLSL` &nbsp; `UPM package`</sub>
+
+[**→ &nbsp;LogFaer/onri-planar-reflections**](https://github.com/LogFaer/onri-planar-reflections)
+
+</td>
+<td valign="top" width="50%">
+
+### ▸ &nbsp;Studying in the open
+
+URP render features I pull apart and rebuild — volumetric
+lighting, screen-space planar reflection, GPU-instanced grass,
+billboard lens flare.
+
+<sub>see the forks on the [repositories tab](https://github.com/LogFaer?tab=repositories)</sub>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## ⬡ &nbsp; Core Skills
 
 ```
-Shaders          ████████████████████  HLSL · ShaderGraph
-Mobile Optim.    ██████████████████░░  Android · iOS · GPU Profiling  
-VFX              ████████████████░░░░  Particles · Post-Processing
-Rendering        ████████████████░░░░  URP · Custom Render Features
-Tech Art         ██████████████████░░  Pipeline · Tools · Automation
+Shaders       →  HLSL · Shader Graph · custom lighting models · reflections & water
+Mobile GPU    →  frame & draw-call budgets · bandwidth · overdraw · profiling
+VFX           →  VFX Graph · GPU particles · post-processing
+Rendering     →  URP · Scriptable Render Features · Render Graph · custom passes
+Tech Art      →  editor tooling · automation · UPM packaging · art pipelines
 ```
 
 ---
@@ -74,12 +114,45 @@ Tech Art         ██████████████████░░  P
 
 ---
 
+## ⬡ &nbsp; The Trail
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LogFaer/LogFaer/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LogFaer/LogFaer/output/github-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/LogFaer/LogFaer/output/github-snake-dark.svg" width="98%"/>
+</picture>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/LogFaer/LogFaer/output/profile-night-view.svg" width="98%" alt="3D contribution calendar"/>
+
+</div>
+
+<sub>Generated in CI by [`.github/workflows/profile-assets.yml`](.github/workflows/profile-assets.yml) and served from this repo — no third-party service to go down.</sub>
+
+---
+
 ## ⬡ &nbsp; Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logfaer&theme=dark&hide_border=true&background=0D1117&ring=888888&fire=C8C8C8&currStreakLabel=C8C8C8&sideLabels=666666&dates=555555" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=logfaer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=888888&title_color=C8C8C8&text_color=666666&rank_icon=github" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=logfaer&theme=dark&hide_border=true&background=0D1117&ring=888888&fire=C8C8C8&currStreakLabel=C8C8C8&sideLabels=666666&dates=555555" width="60%" alt="streak"/>
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=logfaer&theme=github_dark" width="42%" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=logfaer&theme=github_dark&utcOffset=3" width="42%" alt="productive time"/>
+</p>
+
+<!--
+  The previous card here was https://github-readme-stats.vercel.app/api?username=logfaer
+  It broke because the shared public instance is offline (HTTP 503 DEPLOYMENT_PAUSED /
+  402 on Vercel's free tier). It is not a parameter problem — the whole deployment is down.
+
+  To bring the classic github-readme-stats card back reliably, deploy your own instance
+  (5 min, free): https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+  then use:  https://<your-instance>.vercel.app/api?username=logfaer&show_icons=true&theme=github_dark&...
+-->
 
 ---
 
@@ -97,6 +170,16 @@ Tech Art         ██████████████████░░  P
   <a href="mailto:logfaergamedev@gmail.com">
     <img src="https://img.shields.io/badge/Email-logfaergamedev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <!--
+  &nbsp;
+  <a href="https://www.artstation.com/YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@YOUR_CHANNEL">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  -->
 </p>
 
 <br/>
@@ -109,4 +192,6 @@ Tech Art         ██████████████████░░  P
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/d49cc872-4160-4742-b883-736440d44a98" height="280" alt=""/><img src="https://github.com/user-attachments/assets/1dad4216-e64b-4539-a932-f478adb06aac" height="280" alt=""/><img src="https://github.com/user-attachments/assets/a5721396-84b0-441f-b866-2fe6e9b5755c" height="280" alt=""/><img src="https://github.com/user-attachments/assets/6f919ca4-63aa-45e1-a2cc-5d850bed013b" height="280" alt=""/><img src="https://github.com/user-attachments/assets/1abb0a31-e19e-4497-9c0f-0970b752b0f9" height="280" alt=""/>
+
+<sub>▸ &nbsp; shader &amp; VFX frames &nbsp; ◂</sub>
 </div>
