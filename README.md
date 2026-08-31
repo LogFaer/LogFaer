@@ -4,13 +4,11 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/LogFaer/LogFaer/main/assets/banner.svg?v=3" width="820" alt="LogFaer — Technical Artist & Unity Developer"/>
+<img src="https://raw.githubusercontent.com/LogFaer/LogFaer/main/assets/banner.svg?v=4" width="640" alt="LogFaer — Technical Artist & Unity Developer"/>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=logfaer&label=wanderers+passed+by&color=444444&style=flat" alt="profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/LogFaer?label=followers&style=flat&color=444444&labelColor=0D1117" alt="followers"/>
 
 </div>
 
