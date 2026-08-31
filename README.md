@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/LogFaer/LogFaer/main/assets/banner.svg" width="820" alt="LogFaer — Technical Artist & Unity Developer"/>
+<img src="https://raw.githubusercontent.com/LogFaer/LogFaer/main/assets/banner.svg?v=3" width="820" alt="LogFaer — Technical Artist & Unity Developer"/>
 
 <br/>
 
