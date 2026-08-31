@@ -119,39 +119,32 @@ Tech Art      →  editor tooling · automation · UPM packaging · art pipeline
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LogFaer/LogFaer/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LogFaer/LogFaer/output/github-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/LogFaer/LogFaer/output/github-snake-dark.svg" width="98%"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LogFaer/LogFaer/output/snake-light.svg"/>
+  <img alt="contribution graph, consumed" src="https://raw.githubusercontent.com/LogFaer/LogFaer/output/snake-dark.svg" width="98%"/>
 </picture>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/LogFaer/LogFaer/output/profile-night-view.svg" width="98%" alt="3D contribution calendar"/>
 
 </div>
 
-<sub>Generated in CI by [`.github/workflows/profile-assets.yml`](.github/workflows/profile-assets.yml) and served from this repo — no third-party service to go down.</sub>
+<sub>Grayscale snake generated in CI by [`.github/workflows/profile-assets.yml`](.github/workflows/profile-assets.yml) and served from this repo — no third-party service to go down.</sub>
 
 ---
 
 ## ⬡ &nbsp; Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=logfaer&theme=dark&hide_border=true&background=0D1117&ring=888888&fire=C8C8C8&currStreakLabel=C8C8C8&sideLabels=666666&dates=555555" width="60%" alt="streak"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=logfaer&theme=github_dark" width="42%" alt="stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=logfaer&theme=github_dark&utcOffset=3" width="42%" alt="productive time"/>
+  <img src="https://streak-stats.demolab.com/?user=logfaer&theme=dark&hide_border=true&background=0D1117&ring=888888&fire=C8C8C8&currStreakLabel=C8C8C8&sideLabels=666666&dates=555555" width="66%" alt="streak"/>
 </p>
 
 <!--
-  The previous card here was https://github-readme-stats.vercel.app/api?username=logfaer
-  It broke because the shared public instance is offline (HTTP 503 DEPLOYMENT_PAUSED /
-  402 on Vercel's free tier). It is not a parameter problem — the whole deployment is down.
+  The old right-hand card here was https://github-readme-stats.vercel.app/api?username=logfaer
+  It broke because the shared public instance is offline (HTTP 503 DEPLOYMENT_PAUSED / 402 on
+  Vercel's free tier) — not a parameter problem, the whole deployment is down. github-readme-stats
+  is also the only one of these that themes to pure grayscale, so it is worth self-hosting:
 
-  To bring the classic github-readme-stats card back reliably, deploy your own instance
-  (5 min, free): https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
-  then use:  https://<your-instance>.vercel.app/api?username=logfaer&show_icons=true&theme=github_dark&...
+    1. https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance  (5 min, free)
+    2. then uncomment the line below and swap <your-instance>:
+
+  <img src="https://<your-instance>.vercel.app/api?username=logfaer&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C8C8C8&text_color=666666&icon_color=888888&ring_color=888888&rank_icon=github" width="44%" align="top" alt="github stats"/>
 -->
 
 ---
