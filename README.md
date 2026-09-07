@@ -60,7 +60,7 @@ probe, so one material works at every quality tier.
 
 ### ▸ &nbsp;Studying in the open
 
-URP render features I pull apart and rebuild — volumetric
+URP render features I pull apart and rebuild - volumetric
 lighting, screen-space planar reflection, GPU-instanced grass,
 billboard lens flare.
 
