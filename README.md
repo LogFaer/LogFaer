@@ -32,7 +32,7 @@ that are both **fast** and **beautiful**.
 5 years Unity  ·  2 years Tech Art  ·  HLSL  ·  ShaderGraph  ·  Mobile GPU Optimization
 ```
 
-Currently building **Onri Studio** — rendering tools for Unity URP that stay inside a mobile frame budget.
+Currently building **Onri Studio** - rendering tools for Unity URP that stay inside a mobile frame budget.
 
 ---
 
