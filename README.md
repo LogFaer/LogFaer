@@ -123,7 +123,7 @@ Tech Art      →  editor tooling · automation · UPM packaging · art pipeline
 
 </div>
 
-<sub>Grayscale snake generated in CI by [`.github/workflows/profile-assets.yml`](.github/workflows/profile-assets.yml) and served from this repo — no third-party service to go down.</sub>
+<sub>Grayscale snake generated in CI by [`.github/workflows/profile-assets.yml`](.github/workflows/profile-assets.yml) and served from this repo - no third-party service to go down.</sub>
 
 ---
 
