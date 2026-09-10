@@ -136,7 +136,7 @@ Tech Art      →  editor tooling · automation · UPM packaging · art pipeline
 <!--
   The old right-hand card here was https://github-readme-stats.vercel.app/api?username=logfaer
   It broke because the shared public instance is offline (HTTP 503 DEPLOYMENT_PAUSED / 402 on
-  Vercel's free tier) — not a parameter problem, the whole deployment is down. github-readme-stats
+  Vercel's free tier) - not a parameter problem, the whole deployment is down. github-readme-stats
   is also the only one of these that themes to pure grayscale, so it is worth self-hosting:
 
     1. https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance  (5 min, free)
